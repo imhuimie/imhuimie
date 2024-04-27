@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=imhuimie&show_icons=true&theme=transparent)
-![Visitor Count](https://profile-counter.glitch.me/imhuimie/count.svg)
-![:Augenestern-creator](https://count.getloli.com/get/@:imhuimie?theme=gelbooru-h)
+you are my ![:Augenestern-creator](https://count.getloli.com/get/@:imhuimie?theme=gelbooru-h) visitor,Thank You!
